@@ -6,6 +6,8 @@
     "version": "3.4.4"
   },
   "dependencies": {
+    "cryptiles": ">=4.1.2",
+    "extend": ">=3.0.2",
     "hexo": "^3.4.4",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-deployer-git": "^0.3.1",
@@ -19,6 +21,12 @@
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0"
+    "hexo-server": "^0.2.0",
+    "hoek": ">=4.2.1",
+    "lodash": ">=4.17.11",
+    "marked": ">=0.3.9",
+    "randomatic": ">=3.0.0",
+    "sshpk": ">=1.13.2",
+    "uglify-js": ">=2.6.0"
   }
 }
